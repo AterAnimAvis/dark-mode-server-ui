@@ -1,0 +1,10 @@
+{
+  "package": "com.github.ateranimavis.darkmodeserverui.mixins",
+  "refmap": "mixins.dark_mode_server_ui.refmap.json",
+  "mixins": [
+    "MixinStatsComponent"
+  ],
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "minVersion": "0.8.4"
+}
